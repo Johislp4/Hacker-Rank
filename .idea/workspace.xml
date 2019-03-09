@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab1bae2e-54b0-4391-b310-09d97dbc0516" name="Default" comment="" />
+    <list default="true" id="ab1bae2e-54b0-4391-b310-09d97dbc0516" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio4.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio4.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +35,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ejercicio3.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ejercicio3.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ejercicio3.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ejercicio4.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ejercicio4.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ejercicio5.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ejercicio5.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
               <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
@@ -53,6 +74,8 @@
         <option value="$PROJECT_DIR$/ejercicio1.php" />
         <option value="$PROJECT_DIR$/ejercicio2.php" />
         <option value="$PROJECT_DIR$/ejercicio3.php" />
+        <option value="$PROJECT_DIR$/ejercicio4.php" />
+        <option value="$PROJECT_DIR$/ejercicio5.php" />
       </list>
     </option>
   </component>
@@ -126,12 +149,12 @@
       <workItem from="1551881888870" duration="2039000" />
       <workItem from="1551985724948" duration="48000" />
       <workItem from="1552059504029" duration="82000" />
-      <workItem from="1552168461955" duration="526000" />
+      <workItem from="1552168461955" duration="3456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2695000" />
+    <option name="totallyTimeSpent" value="5625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -202,6 +225,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ejercicio3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio5.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
