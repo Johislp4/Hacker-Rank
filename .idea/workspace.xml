@@ -11,7 +11,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ejercicio1.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ejercicio1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ejercicio1.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -19,6 +19,24 @@
               <folding>
                 <element signature="e#7#202#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ejercicio2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ejercicio2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ejercicio3.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ejercicio3.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -33,6 +51,8 @@
       <list>
         <option value="$PROJECT_DIR$/ejercicio1" />
         <option value="$PROJECT_DIR$/ejercicio1.php" />
+        <option value="$PROJECT_DIR$/ejercicio2.php" />
+        <option value="$PROJECT_DIR$/ejercicio3.php" />
       </list>
     </option>
   </component>
@@ -106,12 +126,12 @@
       <workItem from="1551881888870" duration="2039000" />
       <workItem from="1551985724948" duration="48000" />
       <workItem from="1552059504029" duration="82000" />
-      <workItem from="1552168461955" duration="242000" />
+      <workItem from="1552168461955" duration="526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2411000" />
+    <option name="totallyTimeSpent" value="2695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -171,6 +191,20 @@
           <folding>
             <element signature="e#7#202#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
