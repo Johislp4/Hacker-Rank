@@ -16,7 +16,7 @@ function plusMinus($arr)
 
     for ($i = 0; $i < count($arr); $i++) {
         if ($arr[$i] > 0) {
-            $positive[] = $arr[$i]);
+            $positive[] = $arr[$i];
         } else {
             if ($arr[$i] < 0) {
 
